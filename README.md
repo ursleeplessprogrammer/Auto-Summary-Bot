@@ -1,5 +1,13 @@
 # Auto-Summary-Bot 🤖
 
+<p align="center">
+      <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+</p>
+
 An AI-powered Telegram bot that transforms text, URLs, PDFs, and YouTube videos into clear, concise, and structured summaries.
 
 I originally built Auto-Summary-Bot to solve a small problem in my daily life. I enjoy watching YouTube videos and reading articles, papers, or even novels, but sometimes work gets hectic, and I barely have enough time to keep up with the things I enjoy. Other times, I'm simply too lazy to spend an hour watching a video or going through a lengthy article just to find the information I'm looking for.
