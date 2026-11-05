@@ -11,11 +11,6 @@ An AI-powered Telegram bot that transforms text, URLs, PDFs, and YouTube videos 
 
 I originally built Auto-Summary-Bot to solve a small problem in my daily life. I enjoy watching YouTube videos and reading articles, papers, or even novels, but sometimes work gets hectic, and I barely have enough time to keep up with the things I enjoy. Other times, I'm simply too lazy to spend an hour watching a video or going through a lengthy article just to find the information I'm looking for.
 
-So, I decided to build a Telegram bot that could do the reading and watching for me. I wanted something simple that I could access anytime, without having to open different applications or manually go through lengthy content. I developed Auto-Summary-Bot to turn text, URLs, PDFs, and YouTube videos into short, easy-to-digest summaries.
-
-What started as a personal side project eventually became something I use quite often in my leisure time and even during busy workdays. It helps me catch up on interesting topics, learn something new, or get the main points of content when I don't have the time or energy to go through everything myself.
-
-It's basically my little workaround for being curious but not always having the time to satisfy that curiosity.
 ---
 
 ## ✨ Features
