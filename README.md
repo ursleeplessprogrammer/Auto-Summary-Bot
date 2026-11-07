@@ -4,7 +4,6 @@
       <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-
 </p>
 
 An AI-powered Telegram bot that transforms text, URLs, PDFs, and YouTube videos into clear, concise, and structured summaries.
