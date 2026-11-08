@@ -36,6 +36,7 @@ I originally built Auto-Summary-Bot to solve a small problem in my daily life. I
 | Trafilatura | Web content extraction |
 | PyPDF2 | PDF text extraction |
 | YouTube Transcript API | YouTube transcript retrieval |
+| Google Search | Discover related articles |
 | DuckDuckGo Search | Discover related articles |
 | ThreadPoolExecutor | Concurrent summarization |
 | Docker | Containerized deployment |
@@ -104,6 +105,7 @@ Configure the following environment variables before starting the bot.
 | `TELEGRAM_TOKEN` | Telegram Bot API token | Required |
 | `LLM_MODEL` | LLM model identifier supported by LiteLLM | `gpt-3.5-turbo-16k` |
 | `TS_LANG` | Language used for generated summaries | `English` |
+| `GGL_REGION` | Google search region | `us-uk` |
 | `DDG_REGION` | DuckDuckGo search region | `wt-wt` |
 | `CHUNK_SIZE` | Maximum target character count per text chunk | `10000` |
 | `ALLOWED_USERS` | Comma-separated list of permitted Telegram chat IDs | Empty (all users) |
