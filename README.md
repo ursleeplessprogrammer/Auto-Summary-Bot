@@ -103,7 +103,7 @@ Configure the following environment variables before starting the bot.
 |---|---|---|
 | `TELEGRAM_TOKEN` | Telegram Bot API token | Required |
 | `LLM_MODEL` | LLM model identifier supported by LiteLLM | `gpt-3.5-turbo-16k` |
-| `TS_LANG` | Language used for generated summaries | `Taiwanese Mandarin` |
+| `TS_LANG` | Language used for generated summaries | `English` |
 | `DDG_REGION` | DuckDuckGo search region | `wt-wt` |
 | `CHUNK_SIZE` | Maximum target character count per text chunk | `10000` |
 | `ALLOWED_USERS` | Comma-separated list of permitted Telegram chat IDs | Empty (all users) |
